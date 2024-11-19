@@ -6,15 +6,17 @@ Detection and classification of litter on the beach is carried out using the Rea
 
 ## Dataset
 The plastic litter dataset used is sourced from the following link https://universe.roboflow.com/monash-ventz/beach-waste-vqths with the following data usage license explanation https://creativecommons.org/licenses/by/4.0/.
-RT-DETR was trained using 2675 training data (80% dataset)  to recognize several main labels included in the plastic waste category, such as:
+RT-DETR was trained using 2675 training data to recognize several main labels included in the plastic waste category, such as:
 - Bottle
+- Clothes
 - Metal
 - Plastic
 - Rope
 - Styrofoam
+- Wood
 
 ## Evaluation Results
-We used 561 validation data (20% dataset) for evaluation
+There are 561 validation data without wood and clothes category for evaluation
 
 | Class        | Images | Instances | Precision | Recall | mAP@IoU[50] | mAP@IoU[50-95] |
 |--------------|--------|-----------|-----------|--------|-------------|----------------|
