@@ -24,6 +24,7 @@ RT-DETR was trained using 2675 training data to recognize several main labels in
 | **Plastic**  | 331    | 603       | 0.838     | 0.776  | 0.819       | 0.636          |
 | **Rope**     | 155    | 205       | 0.709     | 0.512  | 0.619       | 0.409          |
 | **Styrofoam**| 195    | 418       | 0.904     | 0.765  | 0.861       | 0.697          |
+
 ![cm](confusion_matrix.jpg)
 
 ## Inference
