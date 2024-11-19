@@ -28,4 +28,4 @@ RT-DETR was trained using 2675 training data to recognize several main labels in
 ![cm](confusion_matrix.png)
 
 ## Inference
-![inf](output.png)
+![inf](inference.png)
