@@ -1,5 +1,5 @@
 # Beach Plastic Litter Detection Using RT-DETR
-Detection and classification of plastic litter on the beach is carried out using the Real-Time Detection Transformer (RT-DETR) model. RT-DETR is a transformer-based object detection architecture designed for real-time data processing with high performance, making it very suitable for application in environmental monitoring tasks like this.
+Detection and classification of plastic litter on the beach is carried out using the Real-Time Detection Transformer (RT-DETR) model. RT-DETR is a transformer-based object detection architecture designed for real-time data processing with high performance https://arxiv.org/abs/2304.08069, making it very suitable for application in environmental monitoring tasks like this.
 
 ## RT-DETR Architecture
 ![arsitektur](rtdetr_overview_page-0001.jpg)
