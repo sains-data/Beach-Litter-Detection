@@ -29,3 +29,4 @@ RT-DETR was trained using 2675 training data to recognize several main labels in
 
 ## Inference
 ![inf](inference.png)
+![inf](output1.png)
