@@ -1,5 +1,5 @@
 # Beach Litter Detection Using RT-DETR
-<p> Miftahul Huda Dimas Rizky Ramadhani Nabila Azhari Arsyiah Azahra Putri Maulida Chairani </p>p
+<p> Miftahul Huda &nbsp;&nbsp;&nbsp;&nbsp; Dimas Rizky Ramadhani &nbsp;&nbsp;&nbsp;&nbsp; Nabila Azhari &nbsp;&nbsp;&nbsp;&nbsp; Arsyiah Azahra &nbsp;&nbsp;&nbsp;&nbsp; Putri Maulida Chairani </p>
 <br><br>
 Detection and classification of litter on the beach is carried out using the Real-Time Detection Transformer (RT-DETR) model. RT-DETR is a transformer-based object detection architecture designed for real-time data processing with high performance https://arxiv.org/abs/2304.08069, making it very suitable for application in environmental monitoring tasks like this.
 
