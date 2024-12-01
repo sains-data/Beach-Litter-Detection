@@ -40,3 +40,5 @@ There are 561 validation data without wood and clothes category for evaluation
 
 [2] Y. Zhao, W. Lv, S. Xu, J. Wei, G. Wang, Q. Dang, Y. Liu, and J. Chen, "DETRs Beat YOLOs on Real-time Object Detection," *arXiv preprint*, 2024. [Online]. Available: [https://arxiv.org/abs/2304.08069](https://arxiv.org/abs/2304.08069).
 
+[3] Ultralytics, "Ultralytics Neural Network Modules," GitHub repository, 2024. [Online]. Available: https://github.com/ultralytics/ultralytics/tree/main/ultralytics/nn/modules. [Accessed: Dec. 1, 2024].
+
