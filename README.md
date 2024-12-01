@@ -5,7 +5,7 @@ Detection and classification of litter on the beach is carried out using the Rea
 
 ## RT-DETR Architecture
 ![arsitektur](RT-DETR_Arsitektur.png)
-reference: https://arxiv.org/abs/2304.08069 and https://github.com/ultralytics/ultralytics/tree/main/ultralytics/nn/modules
+reference: https://arxiv.org/abs/2304.08069 and https://github.com/ultralytics/ultralytics/tree/main/ultralytics
 
 ## Dataset
 The plastic litter dataset used is sourced from the following link https://universe.roboflow.com/monash-ventz/beach-waste-vqths with the following data usage license explanation https://creativecommons.org/licenses/by/4.0/.
