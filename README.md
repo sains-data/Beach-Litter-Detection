@@ -4,7 +4,7 @@
 Detection and classification of litter on the beach is carried out using the Real-Time Detection Transformer (RT-DETR) model. RT-DETR is a transformer-based object detection architecture designed for real-time data processing with high performance https://arxiv.org/abs/2304.08069, making it very suitable for application in environmental monitoring tasks like this.
 
 ## RT-DETR Architecture
-![arsitektur](RT-DETR_Arsitektur.png)
+![arsitektur](Arsitektur_RT-DETR.png)
 reference: https://arxiv.org/abs/2304.08069 and https://github.com/ultralytics/ultralytics/tree/main/ultralytics
 
 ## Dataset
