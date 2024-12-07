@@ -30,9 +30,6 @@ There are 561 validation data without wood and clothes category for evaluation
 | **Rope**     | 155    | 205       | 0.709     | 0.512  | 0.619       | 0.409          |
 | **Styrofoam**| 195    | 418       | 0.904     | 0.765  | 0.861       | 0.697          |
 
-'''
-![cm](confusion_matrix.png)
-'''
 
 ## Inference
 ![inf](inference.png)
