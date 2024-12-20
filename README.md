@@ -34,6 +34,10 @@ There are 561 validation data without wood and clothes category for evaluation
 ## Inference
 ![inf](inference.png)
 ![inf](output1.png)
+<video controls width="600">
+  <source src="results.mp4" type="video/mp4">
+</video>
+
 
 ## References
 [1] Monash, "Beach Waste Dataset," *Roboflow Universe*. Roboflow, Oct. 2024. [Online]. Available: [https://universe.roboflow.com/monash-ventz/beach-waste-vqths](https://universe.roboflow.com/monash-ventz/beach-waste-vqths). Accessed: Nov. 19, 2024.
