@@ -35,12 +35,7 @@ There are 561 validation data without wood and clothes category for evaluation
 ![inf](inference.png)
 ![inf](output1.png)
 ![inf](results.mp4)
-<video src="https://github.com/sains-data/Beach-Litter-Detection/raw/refs/heads/main/results.mp4" controls="controls" style="max-width: 100%;">
-</video>
-<video controls width="600">
-  <source src="https://github.com/sains-data/Beach-Litter-Detection/raw/refs/heads/main/results.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/310d2d5b-4b5f-4052-8d4f-91454ea62e98
 
 
 ## References
