@@ -34,9 +34,8 @@ There are 561 validation data without wood and clothes category for evaluation
 ## Inference
 ![inf](inference.png)
 ![inf](output1.png)
-<video controls width="600">
-  <source src="results.mp4" type="video/mp4">
-</video>
+![inf](results.mp4)
+
 
 
 ## References
